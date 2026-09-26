@@ -1,1 +1,1 @@
-# SYNAPTO-SYSTEMS-BACK-END
+# Synapto Systems Backend
